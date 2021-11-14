@@ -28,3 +28,6 @@ In our example, our row still has 4 columns worth of space. If we decide to add 
 If we didn’t specify a desired width for the second column, it would still resize itself to fill in the remaining space in the row. But, by adding "-4", we make our code more readable and allow other developers to clearly know our intentions.
 
 Now let’s customize the widths of our columns!
+
+## Take a look at the live example here:
+https://bucheli-web-development-bootstrap-course-setting-column-widths.netlify.app/
